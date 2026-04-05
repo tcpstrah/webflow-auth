@@ -1,7 +1,7 @@
 # History Rewriting Assignment Submission
 
 ## Repository Information
-- Repository URL: https://github.com/YOUR_USERNAME/webflow-auth
+- Repository URL: https://github.com/tcpstrah/webflow-auth
 - Feature Branch: feature/auth-implementation
 - Pull Request URL: [URL вашего PR]
 
