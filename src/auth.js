@@ -4,3 +4,6 @@ function login(username, password) {
 }
 
 module.exports = { login };
+function checkCredentals(username, password) {  // опечатка в названии
+    return username && password;
+}
